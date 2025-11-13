@@ -57,3 +57,9 @@
     return 0;
     
  }
+
+ //conclusiones
+ /**
+  * este programa muestra como abrir, leer y cerrar un fichero en lenguaje c,
+  * y como el so gestiona el acceso a ficheros
+  */

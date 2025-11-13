@@ -84,3 +84,8 @@ int main(){
         closedir (d);
         return 0;
   }
+/**
+ * conclusion:
+ * el programa recorre un directorio que lo da el usuario y muestra
+ * cada entrada, sus permisos tipo y fehcas de modificacion, en lenguaje c
+ */

@@ -60,3 +60,9 @@
     }/*Fin del While*/ 
     closedir(d); 
  }     
+
+ /**
+  * conclusion:
+  * el programa permite ver los archivos en un directorio y sus tamaños, mostrando el 
+  * uso de lectura en directorios con lenguaje c
+  */
